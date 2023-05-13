@@ -5,5 +5,5 @@ Templates
 *Test Cases
 *Bug Report
 *RTM
--Test Reports
--Test Metrics
+*Test Reports
+*Test Metrics
